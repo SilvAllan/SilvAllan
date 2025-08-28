@@ -1,5 +1,5 @@
 #  🐱‍👤About Me:
-👋 Olá, eu sou o Allan Silva!<br><br>🎯 Estudante de Sistemas para Internet <br>💻 Programador Full Stack (em formação) no SENAI<br> ✪ ω ✪ Apaixonado por Python, desenvolvimento web e criação de jogos<br>
+👋 Olá, eu sou o Allan Silva!<br><br>🎯 Estudante de Sistemas para Internet <br>💻 Programador Full Stack (em formação) no SENAI<br> ✪ ω ✪ desenvolvimento web e criação de jogos<br>
 
 
 # 💻 Tech Stack:
